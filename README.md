@@ -101,6 +101,13 @@
 	- Funções Python - Parte 02
 
 ### 7. Explorando IA Generativa em um Pipeline de ETL com Python
-	
+- 7.1 O que Vamos Desenvolver Nest Lab
+- 7.2 Apresentação e Background
+- 7.3 Contexto e Preparação
+- 7.4 Extract(Extração)
+- 7.5 Transform(Transformação ou Enriquecimento)
+- 7.6 Load(Carregamento)
+- 7.7 Desafio! Crie Seu Próprio Pipeline de ETL
+- 7.8 Entendendo o Desafo	
 	
 	
